@@ -1,0 +1,28 @@
+.table{
+ width: 980px;
+  margin: 0 auto;
+  font-weight: 600;
+  
+}
+
+.search-input{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 40px;
+   
+}
+
+.buttons{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 40px;
+   gap: 30px;
+}
+.hidden-form{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+}
